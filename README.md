@@ -54,6 +54,5 @@ Kami menyambut baik kontribusi dari komunitas! Silakan buka isu atau kirim pull 
 
 ## Lisensi
 Repositori ini dilisensikan di bawah [Raphielscape Public License](https://raw.githubusercontent.com/FighterTunnel/rdp/main/LICENCE) - Version 1.d, Agust 2024
----
 
 Anda dapat menyesuaikan bagian-bagian tertentu sesuai dengan kebutuhan spesifik proyek Anda
