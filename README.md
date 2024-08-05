@@ -35,12 +35,15 @@ Repositori ini berisi skrip dan panduan untuk menginstal dan mengonfigurasi Remo
 ```
 
 ```
-## Detail Login 
-RDP HOST/IP:5888
-Username ```Administrator```
-Passoword ```@Ftvpnstores```
+<summary><b>🔗 Remote Desktop Protocol Detail Login</b></summary>
+<br>
+    
+### Remote Desktop Protocol Detail Login
+-  RDP HOST/IP `5888`
+-  Username `Administrator`
+-  Passoword `@Ftvpnstores`
+<h3 align="center">Sangat disarankan mengganti password!!!</h3>
 
-Sangat disarankan mengganti password!!!
 ## Kontribusi
 Kami menyambut baik kontribusi dari komunitas! Silakan buka isu atau kirim pull request jika Anda memiliki saran atau perbaikan.
 
