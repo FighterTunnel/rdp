@@ -35,9 +35,11 @@ Repositori ini berisi skrip dan panduan untuk menginstal dan mengonfigurasi Remo
 ```
 
 ```
-## Default Password
+## Detail Login 
 Username ```Administrator```
 Passoword ```@Ftvpnstores```
+
+Sangat disarankan mengganti password!!!
 ## Kontribusi
 Kami menyambut baik kontribusi dari komunitas! Silakan buka isu atau kirim pull request jika Anda memiliki saran atau perbaikan.
 
