@@ -2,7 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/FighterTunnel/tunnel)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/FighterTunnel/tunnel/graphs/commit-activity)
-[![GitHub Forks](https://img.shields.io/github/forks/FighterTunnel?&logo=github)](https://github.com/FighterTunnel/tunnel/fork)
+[![GitHub Forks](https://img.shields.io/github/forks/FighterTunnel/tunnel?&logo=github)](https://github.com/FighterTunnel/tunnel/fork)
 [![GitHub Stars](https://img.shields.io/github/stars/FighterTunnel/tunnel?&logo=github)](https://github.com/FighterTunnel/tunnel/stargazers)
 
 ## Deskripsi
