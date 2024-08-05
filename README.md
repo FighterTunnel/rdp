@@ -1,5 +1,10 @@
 # Windows RDP Installer
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/FighterTunnel/tunnel)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/FighterTunnel/tunnel/graphs/commit-activity)
+[![GitHub Forks](https://img.shields.io/github/forks/FighterTunnel?&logo=github)](https://github.com/FighterTunnel/tunnel/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/FighterTunnel/tunnel?&logo=github)](https://github.com/FighterTunnel/tunnel/stargazers)
+
 ## Deskripsi
 Repositori ini berisi skrip dan panduan untuk menginstal dan mengonfigurasi Remote Desktop Protocol (RDP) pada sistem operasi Windows. RDP memungkinkan pengguna untuk terhubung ke komputer Windows dari jarak jauh, memberikan akses penuh ke desktop, aplikasi, dan file...
 
