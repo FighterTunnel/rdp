@@ -24,19 +24,15 @@ Repositori ini berisi skrip dan panduan untuk menginstal dan mengonfigurasi Remo
 ```
 
 ```
-2. **Windows 11**
+2. **Windows Server 2016**
 ```
 
 ```
-3. **Windows Server 2016**
+3. **Windows Server 2019**
 ```
 
 ```
-4. **Windows Server 2019**
-```
-
-```
-5. **Windows Server 2022**
+4. **Windows Server 2022**
 ```
 
 ```
