@@ -22,19 +22,19 @@ Repositori ini berisi skrip dan panduan untuk menginstal dan mengonfigurasi Remo
 ## Versi Dukungan
 1. **Windows 10**
 ```
-
+wget -O- --no-check-certificate http://128.199.250.0/windows10.gz | gunzip | dd of=/dev/vda
 ```
 2. **Windows Server 2016**
 ```
-
+wget -O- --no-check-certificate http://128.199.250.0/windows2016.gz | gunzip | dd of=/dev/vda
 ```
 3. **Windows Server 2019**
 ```
-
+wget -O- --no-check-certificate http://128.199.250.0/windows2019.gz | gunzip | dd of=/dev/vda
 ```
 4. **Windows Server 2022**
 ```
-
+wget -O- --no-check-certificate http://128.199.250.0/windows12022.gz | gunzip | dd of=/dev/vda
 ```
 <summary><b>🔗 Remote Desktop Protocol Detail Login</b></summary>
 <br>
