@@ -37,7 +37,6 @@ Repositori ini berisi skrip dan panduan untuk menginstal dan mengonfigurasi Remo
 ```
 ## Detail Login 
 RDP HOST/IP:5888
-
 Username ```Administrator```
 Passoword ```@Ftvpnstores```
 
