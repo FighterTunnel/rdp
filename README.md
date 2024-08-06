@@ -44,11 +44,23 @@ wget -O- --no-check-certificate http://rdp.yha.my.id/windows2022.gz | gunzip | d
 <details>
 <summary><b>🔗 Remote Desktop Protocol Detail Login</b></summary>
 
-# Remote Desktop Protocol Detail Login
+### Remote Desktop Protocol Detail Login
 
 -  RDP HOST/IP PORT `5888`
 -  Username `Administrator`
 -  Passoword `@Ftvpnstores`
+</details>
+
+<details>
+<summary><b>🔗 Tutorial install di bawah ini</b></summary>
+<br>
+    
+> Anda memerlukan akun cloud silahkan beli [disini](https://t.me/yha_bot)
+<h4> Install Otomatis 1 Klik: </h4>    
+<p><a href="https://t.me/carainstallrdp"><img src="https://img.shields.io/badge/Tonton%20DI%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a></p>
+<h4> Install Manual: </h4>    
+<p><a href="https://t.me/carainstallrdp/4"><img src="https://img.shields.io/badge/full-vidio_tutorial" width="200""/></a></p>
+    
 </details>
 
 <h3 align="center">Sangat disarankan mengganti password!!!</h3>
