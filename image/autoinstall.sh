@@ -14,7 +14,7 @@ read -p "Pilih [1]: " PILIHOS
 IFACE="Ethernet Instance 0"
 
 case "$PILIHOS" in
-	1|"") PILIHOS="http://178.128.86.187/windows10.gz";;
+	1|"") PILIHOS="http://165.22.253.254/windows10.gz";;
 
 	6) read -p "Masukkan Link GZ mu : " PILIHOS;;
 	*) echo "pilihan salah"; exit;;
