@@ -18,8 +18,13 @@ Repositori ini berisi skrip dan panduan untuk menginstal dan mengonfigurasi Remo
 ## Prerequisites
 - Sistem operasi Windows yang kompatibel.
 - Koneksi internet untuk mengunduh pembaruan dan driver yang diperlukan.
+- Autosetup Interface IP RDP
 
-## Versi Dukungan
+## Install Otomatis Dengan 1 Klik
+```
+wget https://raw.githubusercontent.com/FighterTunnel/rdp/main/image/auto.sh && bash auto.sh
+```
+## Install Manual
 1. **Windows 10**
 ```
 wget -O- --no-check-certificate http://rdp.yha.my.id/windows10.gz | gunzip | dd of=/dev/vda
@@ -39,17 +44,12 @@ wget -O- --no-check-certificate http://rdp.yha.my.id/windows2022.gz | gunzip | d
 <summary><b>🔗 Remote Desktop Protocol Detail Login</b></summary>
 <br>
     
-# Remote Desktop Protocol SERVER 
-### Detail Login
--  RDP HOST/IP `5888`
+# Remote Desktop Protocol Detail Login
+
+-  RDP HOST/IP PORT `5888`
 -  Username `Administrator`
 -  Passoword `@Ftvpnstores`
 
-# Remote Desktop Protocol Windows 10
-### Detail Login
--  RDP HOST/IP `5888`
--  Username `Admin`
--  Passoword `@Ftvpnstores`
 <h3 align="center">Sangat disarankan mengganti password!!!</h3>
 
 ## Kontribusi
