@@ -41,8 +41,9 @@ wget -O- --no-check-certificate http://rdp.yha.my.id/windows2019.gz | gunzip | d
 ```
 wget -O- --no-check-certificate http://rdp.yha.my.id/windows2022.gz | gunzip | dd of=/dev/vda
 ```
+<details>
 <summary><b>🔗 Remote Desktop Protocol Detail Login</b></summary>
-</details>
+
 # Remote Desktop Protocol Detail Login
 
 -  RDP HOST/IP PORT `5888`
