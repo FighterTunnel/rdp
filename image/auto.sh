@@ -22,8 +22,8 @@ esac
 
 echo "Merasa terbantu dengan script ini? Anda bisa memberikan dukungan melalui QRIS kami https://nixpoin.com/qris"
 
-read -p "Masukkan password untuk akun Administrator (minimal 12 karakter): " PASSADMIN
-
+#read -p "Masukkan password untuk akun Administrator (minimal 12 karakter): " PASSADMIN
+PASSADMIN=$(@Ftvpnstores)
 IP4=$(curl -4 -s icanhazip.com)
 GW=$(ip route | awk '/default/ { print $3 }')
 
