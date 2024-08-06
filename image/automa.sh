@@ -1,27 +1,28 @@
 #!/bin/bash
 #
 #
+echo ""
+echo ""
+echo ""
 echo "Pilih OS yang ingin anda install"
 echo "	1) Windows 10"
-# echo "	2) Windows 2016"
-# echo "	3) Windows 2012"
-# echo "	4) Windows 10"
-# echo "	5) Windows 2022"
-echo "	6) Pakai link gz mu sendiri"
+echo "	2) Windows 2016"
+echo "	3) Windows 2019"
+echo "	4) Windows 2022"
+echo "	5) Pakai link gz mu sendiri"
 
 read -p "Pilih [1]: " PILIHOS
 
 IFACE="Ethernet Instance 0"
 
 case "$PILIHOS" in
-	1|"") PILIHOS="http://165.22.253.254/windows10.gz";;
-
-	6) read -p "Masukkan Link GZ mu : " PILIHOS;;
+	1|"") PILIHOS="http://104.248.159.5/windows10.gz";;
+	2) PILIHOS="http://143.198.193.90/windows2016.gz";;
+	3) PILIHOS="http://143.198.206.83/windows2019.gz";;
+	4) PILIHOS="http://157.230.248.88/windows2022.gz";;
+	5) read -p "Masukkan Link GZ mu : " PILIHOS;;
 	*) echo "pilihan salah"; exit;;
 esac
-
-
-PASSADMIN="Nixpoin.com123Qqs"
 
 IP4=$(curl -4 -s icanhazip.com)
 GW=$(ip route | awk '/default/ { print $3 }')
