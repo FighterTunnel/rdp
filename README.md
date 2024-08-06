@@ -54,7 +54,7 @@ wget -O- --no-check-certificate http://rdp.yha.my.id/windows2022.gz | gunzip | d
 </details>
 
 <details>
-<summary><b>🔗 Tutorial install di bawah ini</b></summary>
+<summary><b>🔗 Tutorial Install Di Bawah Ini</b></summary>
 <br>
     
 > Anda memerlukan akun cloud silahkan beli [disini](https://t.me/yha_bot)
