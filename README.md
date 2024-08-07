@@ -50,7 +50,7 @@ wget -O- --no-check-certificate http://rdp.yha.my.id/windows2022.gz | gunzip | d
 
 -  RDP HOST/IP PORT `5888`
 -  Username `Administrator`
--  Passoword `@Ftvpnstores`
+-  Password `@Ftvpnstores`
 </details>
 
 <details>
