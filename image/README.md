@@ -9,6 +9,7 @@ Kali ini, saya menggunakan OS Ubuntu 20.04 dalam proses pembuatannya. Jangan lup
 
 ### 2. Masuk Mode Recovery
 Setelah berhasil membuat VPS (droplet), kita perlu mengubah VPS ke mode recovery. Caranya:
+![Screenshot](https://raw.githubusercontent.com/FighterTunnel/rdp/main/image/photo_1.jpg)
 
 - Matikan VPS.
 - Ubah pengaturan boot ke Boot from Recovery ISO.
@@ -16,7 +17,7 @@ Setelah berhasil membuat VPS (droplet), kita perlu mengubah VPS ke mode recovery
 - Masuk ke console.
   
 Jika jendela browser tidak muncul seperti gambar di bawah, silakan tekan ENTER.
-
+![Screenshot](https://raw.githubusercontent.com/FighterTunnel/rdp/main/image/photo_2.jpg)
 ### Install Windows
 Setelah berhasil masuk ke mode recovery, jalankan perintah berikut untuk memulai proses instalasi.
 
