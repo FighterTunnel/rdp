@@ -29,15 +29,19 @@ wget https://raw.githubusercontent.com/FighterTunnel/rdp/main/image/auto.sh && b
 ```
 wget -O- --no-check-certificate http://rdp.yha.my.id/windows10.gz | gunzip | dd of=/dev/vda
 ```
-2. **Windows Server 2016**
+2. **Windows Server 2012 R2**
+```
+wget -O- --no-check-certificate http://rdp.yha.my.id/windows2012.gz | gunzip | dd of=/dev/vda
+```
+3. **Windows Server 2016**
 ```
 wget -O- --no-check-certificate http://rdp.yha.my.id/windows2016.gz | gunzip | dd of=/dev/vda
 ```
-3. **Windows Server 2019**
+4. **Windows Server 2019**
 ```
 wget -O- --no-check-certificate http://rdp.yha.my.id/windows2019.gz | gunzip | dd of=/dev/vda
 ```
-4. **Windows Server 2022**
+5. **Windows Server 2022**
 ```
 wget -O- --no-check-certificate http://rdp.yha.my.id/windows2022.gz | gunzip | dd of=/dev/vda
 ```
