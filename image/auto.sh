@@ -16,7 +16,7 @@ ethernt="Ethernet Instance 0"
 
 case "$selectos" in
 	1|"") selectos="http://rdp.yha.my.id/windows10.gz";;
-	2) selectos="http://1rdp.yha.my.id/windows2012.gz";;
+	2) selectos="http://rdp.yha.my.id/windows2012.gz";;
 	3) selectos="http://1rdp.yha.my.id/windows2016.gz";;
 	4) selectos="http://rdp.yha.my.id/windows2019.gz";;
 	5) selectos="http://rdp.yha.my.id/windows2022.gz";;
