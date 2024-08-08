@@ -5,9 +5,10 @@ echo ""
 echo ""
 echo "Silahkan Pilih OS yang ingin anda install:"
 echo "	1.) Windows 10"
-echo "	2.) Windows 2016"
-echo "	3.) Windows 2019"
-echo "	4.) Windows 2022"
+echo "	2.) Windows 2012 R2"
+echo "	3.) Windows 2016"
+echo "	4.) Windows 2019"
+echo "	5.) Windows 2022"
 
 read -p "Pilih [1]: " selectos
 
@@ -15,9 +16,10 @@ ethernt="Ethernet Instance 0"
 
 case "$selectos" in
 	1|"") selectos="http://rdp.yha.my.id/windows10.gz";;
-	2) selectos="http://rdp.yha.my.id/windows2016.gz";;
-	3) selectos="http://rdp.yha.my.id/windows2019.gz";;
-	4) selectos="http://rdp.yha.my.id/windows2022.gz";;
+	2) selectos="http://1rdp.yha.my.id/windows2012.gz";;
+	3) selectos="http://1rdp.yha.my.id/windows2016.gz";;
+	4) selectos="http://rdp.yha.my.id/windows2019.gz";;
+	5) selectos="http://rdp.yha.my.id/windows2022.gz";;
 	*) echo "pilihan salah"; exit;;
 esac
 
