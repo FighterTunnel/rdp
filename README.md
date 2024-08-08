@@ -65,9 +65,9 @@ wget -O- --no-check-certificate http://rdp.yha.my.id/windows2022.gz | gunzip | d
 <h4> Install Otomatis 1 Klik: </h4>    
 <p><a href="https://t.me/carainstallrdp"><img src="https://img.shields.io/badge/Tonton%20DI%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a></p>
 Atau
-<p><a href="https://t.me/carainstallrdp"><img src="https://img.shields.io/badge/Baca%20Dsini-Klik%20-blue""/></a></p>
+<p><a href="https://t.me/carainstallrdp"><img src="https://img.shields.io/badge/Baca%20Disini-Klik%20-green?style=for-the-badge&logo=telegram""/></a></p>
 <h4> Install Manual: </h4>    
-<p><a href="https://t.me/carainstallrdp/4"><img src="https://img.shields.io/badge/Full%20Vidio%20-green?style=for-the-badge&logo=telegram" width="200""/></a></p>
+<p><a href="https://t.me/carainstallrdp/4"><img src="https://img.shields.io/badge/Tonton%20Disini-Klik%20-red?style=for-the-badge&logo=telegram" width="200""/></a></p>
     
 </details>
 
