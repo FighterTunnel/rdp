@@ -1,3 +1,5 @@
+# Tutorial Install dengan 1 klik
+
 saya telah membuat file image Windows saya sendiri yang dapat diunduh di [link ini](https://github.com/FighterTunnel/rdp). File-file tersebut merupakan karya saya sendiri dan saya jamin keamanannya.
 
 Kini, saya juga telah menyiapkan skrip installer untuk memudahkan kalian dalam menginstal OS Windows di VPS. Berikut adalah langkah-langkah terbaru untuk menginstal OS Windows di VPS DigitalOcean.
