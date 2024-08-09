@@ -15,11 +15,11 @@ read -p "Pilih [1]: " selectos
 ethernt="Ethernet Instance 0"
 
 case "$selectos" in
-	1|"") selectos="http://rdp.yha.my.id/windows10.gz";;
-	2) selectos="http://rdp.yha.my.id/windows2012.gz";;
-	3) selectos="http://rdp.yha.my.id/windows2016.gz";;
-	4) selectos="http://rdp.yha.my.id/windows2019.gz";;
-	5) selectos="http://rdp.yha.my.id/windows2022.gz";;
+	1|"") selectos="https://image.yha.my.id/1:/windows10.gz";;
+	2) selectos="https://image.yha.my.id/1:/windows2012.gz";;
+	3) selectos="https://image.yha.my.id/1:/windows2016.gz";;
+	4) selectos="https://image.yha.my.id/1:/windows2019.gz";;
+	5) selectos="https://image.yha.my.id/1:/windows2022.gz";;
 	*) echo "pilihan salah"; exit;;
 esac
 
