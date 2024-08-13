@@ -27,23 +27,23 @@ wget https://raw.githubusercontent.com/FighterTunnel/rdp/main/image/auto.sh && b
 ## Install Manual
 1. **Windows 10**
 ```
-wget -O- --no-check-certificate https://image.yha.my.id/1:/windows10.gz | gunzip | dd of=/dev/vda
+wget -O- --no-check-certificate https://image.yha.my.id/2:/windows10.gz | gunzip | dd of=/dev/vda
 ```
 2. **Windows Server 2012 R2**
 ```
-wget -O- --no-check-certificate https://image.yha.my.id/1:/indows2012.gz | gunzip | dd of=/dev/vda
+wget -O- --no-check-certificate https://image.yha.my.id/2:/indows2012.gz | gunzip | dd of=/dev/vda
 ```
 3. **Windows Server 2016**
 ```
-wget -O- --no-check-certificate https://image.yha.my.id/1:/windows2016.gz | gunzip | dd of=/dev/vda
+wget -O- --no-check-certificate https://image.yha.my.id/2:/windows2016.gz | gunzip | dd of=/dev/vda
 ```
 4. **Windows Server 2019**
 ```
-wget -O- --no-check-certificate https://image.yha.my.id/1:/windows2019.gz | gunzip | dd of=/dev/vda
+wget -O- --no-check-certificate https://image.yha.my.id/2:/windows2019.gz | gunzip | dd of=/dev/vda
 ```
 5. **Windows Server 2022**
 ```
-wget -O- --no-check-certificate https://image.yha.my.id/1:/windows2022.gz | gunzip | dd of=/dev/vda
+wget -O- --no-check-certificate https://image.yha.my.id/2:/windows2022.gz | gunzip | dd of=/dev/vda
 ```
 
 ## Ikuti Petunjuk di Layar
